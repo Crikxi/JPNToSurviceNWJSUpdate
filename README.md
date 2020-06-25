@@ -1,4 +1,4 @@
-# JPNToSurviceNWJSUpdate
+# JPNToSurviveNWJSUpdate
 ## Goal of the script
 Update the nwjs version to correct audio bugs
 ## Installation
